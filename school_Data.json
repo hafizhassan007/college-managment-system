@@ -1,0 +1,31 @@
+{
+    "students": [
+        {
+            "name": "hassan",
+            "age": 20,
+            "email": "abc@gmail.com",
+            "roll_no": "1",
+            "grades": {
+                "math": 90.0
+            }
+        },
+        {
+            "name": "ashar",
+            "age": 25,
+            "email": "acc@gmail.com",
+            "roll_no": "2",
+            "grades": {
+                "science": 89.0
+            }
+        }
+    ],
+    "teachers": [
+        {
+            "name": "amir",
+            "age": 30,
+            "email": "abc@gmail.com",
+            "emp_id": "1",
+            "subject": "math"
+        }
+    ]
+}
